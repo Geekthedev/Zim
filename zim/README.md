@@ -83,3 +83,6 @@ Zim is a packet capture tool that requires raw socket access. This is a privileg
 ## Disclaimer
 
 This tool is provided for educational and network troubleshooting purposes only. Only use it on networks you own or have explicit permission to monitor. Unauthorized network monitoring may violate privacy laws and regulations.
+
+**Author**
+``` Joseph Anointed, Computer Enginering ```
